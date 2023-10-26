@@ -1,0 +1,5 @@
+Speciality.create(name: "Naturopathy")
+Speciality.create(name: "Herbal Medicine")
+Speciality.create(name: "Acupuncture")
+Speciality.create(name: "Ayurveda")
+Speciality.create(name: "Homeopathy")

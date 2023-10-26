@@ -1,0 +1,5 @@
+Patient.create(first_name: "Emma", last_name: "Johnson", city: City.all.sample)
+Patient.create(first_name: "Liam", last_name: "Smith", city: City.all.sample)
+Patient.create(first_name: "Olivia", last_name: "Davis", city: City.all.sample)
+Patient.create(first_name: "Noah", last_name: "Miller", city: City.all.sample)
+Patient.create(first_name: "Ava", last_name: "Brown", city: City.all.sample)

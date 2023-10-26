@@ -1,0 +1,5 @@
+City.create(name: "Paris")
+City.create(name: "Versailles")
+City.create(name: "Saint-Denis")
+City.create(name: "Nanterre")
+City.create(name: "Créteil")
